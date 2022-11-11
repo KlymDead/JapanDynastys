@@ -1,5 +1,3 @@
-package Lesson3.Japan;
-
 import java.util.Scanner;
 
 //All with scanner. Enter names of dynasty's , power of army.

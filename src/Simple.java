@@ -1,5 +1,3 @@
-package Lesson3.Japan;
-
 //Simple one. This app just work.
 public class Simple {
     public static void main (String[] args){

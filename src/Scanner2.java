@@ -1,4 +1,3 @@
-
 import java.util.Scanner;
 //Enter only names of dynasty's.
 public class Scanner2 {
